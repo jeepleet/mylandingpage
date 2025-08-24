@@ -115,3 +115,51 @@ h2 {
   padding: 10px;
   
 }
+
+.quote {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #E5E7EB;
+  padding: 70px 70px;
+}
+
+.quote h1 {
+  margin-left: 40%;
+  font-size: 36px;
+  color: #1F2937;
+
+}
+
+.quote p {
+  text-align: center;
+  font-size: 36px;
+  color: #1F2937;
+  font-style: italic;
+  max-width: 1000px;
+  
+ }
+   
+ .calltoaction {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-between;
+  border: solid blue;
+  background-color: #3882f6;
+  border-radius: 20px;
+  padding: 40px 50px;
+  margin: 100px auto;
+  width: 800px;
+  
+   }
+  
+  .box h1 {
+    font-size: 40px;
+  }
+  
+  .calltoaction button {
+    color: #E5E7EB;
+    border-color:#e5e7eb
+  }
+ 
