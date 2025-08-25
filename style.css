@@ -1,5 +1,7 @@
 body {
     font-family: 'Roboto';
+    margin: 0px;
+  
 
 }
 
@@ -136,7 +138,7 @@ h2 {
   font-size: 36px;
   color: #1F2937;
   font-style: italic;
-  max-width: 1000px;
+  width: 1000px;
   
  }
    
